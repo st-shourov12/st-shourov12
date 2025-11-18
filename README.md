@@ -81,6 +81,8 @@ I'm a passionate **MERN Stack Developer** who loves building modern, responsive,
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=st-shourov12&show_icons=true&locale=en" alt="st-shourov12" /></p> -->
 
 
+---
+
 ## 📫 Connect With Me
 
 <p>
@@ -96,6 +98,21 @@ I'm a passionate **MERN Stack Developer** who loves building modern, responsive,
 </p>
 
 ---
+
+
+
+
+## 👀 Profile Views
+| Profile Views |
+|---------------|
+| <img src="https://komarev.com/ghpvc/?username=st-shourov12&style=for-the-badge&color=blue" /> |
+
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories!
+</p>
+
+
+
 
 
 
