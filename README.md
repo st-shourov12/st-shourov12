@@ -51,6 +51,11 @@ I'm a passionate **MERN Stack Developer** who loves building modern, responsive,
 
 ## 📊 GitHub Stats
 
+
+
+| Top Languages | GitHub Stats | 
+|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=st-shourov12&theme=transparent&hide_border=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=st-shourov12&theme=transparent&hide_border=true) | 
 <!-- <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
@@ -72,8 +77,8 @@ I'm a passionate **MERN Stack Developer** who loves building modern, responsive,
 </div> -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=st-shourov12&show_icons=true&locale=en&layout=compact" alt="st-shourov12" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=st-shourov12&show_icons=true&locale=en" alt="st-shourov12" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=st-shourov12&show_icons=true&locale=en&layout=compact" alt="st-shourov12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=st-shourov12&show_icons=true&locale=en" alt="st-shourov12" /></p> -->
 
 
 ## 📫 Connect With Me
@@ -91,6 +96,9 @@ I'm a passionate **MERN Stack Developer** who loves building modern, responsive,
 </p>
 
 ---
+
+
+
 
 
 
