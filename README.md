@@ -1,4 +1,6 @@
 <div align="center">
+
+![Developer Banner](https://i.ibb.co.com/dFdSmHG/Blue-Modern-Profile-Linked-In-Background-Photo.png)
   
 # 👋Hi there!   MD. Mirazul Islam Shourov 
 
@@ -89,7 +91,6 @@ I'm a passionate **MERN Stack Developer** who loves building modern, responsive,
 </p>
 
 ---
-
 
 
 
