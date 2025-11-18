@@ -2,13 +2,13 @@
   
 # 👋Hi there!   MD. Mirazul Islam Shourov 
 
-### Front End Developer | Building Modern Web Experiences
+### MERN Stack Developer | Building Modern Web Experiences
 
 </div>
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Front End Developer** who loves building modern, responsive, and user-friendly web applications. I enjoy turning ideas into reality through clean code and creative problem-solving. I am exploring NEXT.JS or I’m working on a percel type website. Always eager to learn new technologies and improve my skills in the ever-evolving world of web development!
+I'm a passionate **MERN Stack Developer** who loves building modern, responsive, and user-friendly web applications. I enjoy turning ideas into reality through clean code and creative problem-solving. I am exploring NEXT.JS or I’m working on a percel type website. Always eager to learn new technologies and improve my skills in the ever-evolving world of web development!
 
 ---
 
