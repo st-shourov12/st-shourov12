@@ -1,6 +1,6 @@
 <div align="center">
 
-![Developer Banner](https://i.ibb.co.com/dFdSmHG/Blue-Modern-Profile-Linked-In-Background-Photo.png)
+![Developer Banner](https://i.ibb.co.com/yFSm0j9v/Github-Cover-Edit.png)
   
 # 👋Hi there!   MD. Mirazul Islam Shourov 
 
