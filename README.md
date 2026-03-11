@@ -1,6 +1,6 @@
 <div align="center">
 
-![Developer Banner](https://i.ibb.co.com/yFSm0j9v/Github-Cover-Edit.png)
+![Developer Banner](https://i.ibb.co.com/zT0K4W65/Github-Cover-Edit.png)
   
 # 👋Hi there!   MD. Mirazul Islam Shourov 
 
