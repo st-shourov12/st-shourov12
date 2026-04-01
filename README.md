@@ -49,7 +49,7 @@ I'm a passionate **MERN Stack Developer** who loves building modern, responsive,
 ---
 
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
 
 
