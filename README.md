@@ -53,9 +53,11 @@ I'm a passionate **MERN Stack Developer** who loves building modern, responsive,
 
 
 
-| Top Languages | GitHub Stats | 
+<!--| Top Languages | GitHub Stats | 
 |:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=st-shourov12&theme=transparent&hide_border=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=st-shourov12&theme=transparent&hide_border=true) | 
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=st-shourov12&theme=transparent&hide_border=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=st-shourov12&theme=transparent&hide_border=true) | -->
+
+
 <!-- <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
@@ -72,6 +74,8 @@ I'm a passionate **MERN Stack Developer** who loves building modern, responsive,
   
 ### ⭐️ Feel free to check out my repositories and don't forget to star them if you find something interesting!
 
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
 
 </div> -->
@@ -82,6 +86,28 @@ I'm a passionate **MERN Stack Developer** who loves building modern, responsive,
 
 
 ---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-shourov12&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/st-shourov12/st-shourov12/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/st-shourov12/st-shourov12/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=st-shourov12&theme=react-dark&bg_color=20232a&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
 
 ## 📫 Connect With Me
 
