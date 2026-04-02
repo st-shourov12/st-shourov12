@@ -33,6 +33,8 @@ I'm a passionate **MERN Stack Developer** who loves building modern, responsive,
 ### ⚛️ JavaScript Frameworks & Libraries
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://i.ibb.co.com/jphhtCW/next-js.png" alt="NextJS" width="50" height="50"/>
+  <img src="https://i.ibb.co.com/MyD4mBxG/chartjs.png" alt="ChartJS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
 </p>
 
@@ -44,6 +46,15 @@ I'm a passionate **MERN Stack Developer** who loves building modern, responsive,
 ### 🔐 Authentication
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
+  <img src="https://i.ibb.co.com/wNhMfJfQ/next-Auth.png" alt="NextAuth" width="50" height="50"/>
+</p>
+
+
+### ⚙ Tools
+<p>
+  <img src="https://i.ibb.co.com/hRr1fhFW/vscode.png" alt="VSCode" width="50" height="50"/>
+  <img src="https://i.ibb.co.com/gMYpyHTR/Figma-logo.jpg" alt="Figma" width="50" height="50"/>
+  <img src="https://i.ibb.co.com/MD86wJRv/framer.jpg" alt="Framer" width="50" height="50"/>
 </p>
 
 ---
