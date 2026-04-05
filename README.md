@@ -1,16 +1,46 @@
 <div align="center">
 
 ![Developer Banner](https://i.ibb.co.com/zT0K4W65/Github-Cover-Edit.png)
-  
-# 👋Hi there!   MD. Mirazul Islam Shourov 
 
-### MERN Stack Developer | Building Modern Web Experiences
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm MD. MIRAZUL ISLAM SHOUROV</h1>
+<h2 align="center">MERN Stack Developer</h2>
+<p align="center">Building modern web apps — one component at a time</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
 </div>
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a passionate **MERN Stack Developer** who loves building modern, responsive, and user-friendly web applications. I enjoy turning ideas into reality through clean code and creative problem-solving. I am exploring NEXT.JS and I’m working on a percel type website. Always eager to learn new technologies and improve my skills in the ever-evolving world of web development!
+🚀 Passionate **MERN Stack Developer** who loves building modern, responsive, and user-friendly web applications.
+
+💡 I enjoy turning ideas into reality through clean code and creative problem-solving.
+
+📦 Currently building a **parcel delivery platform** and exploring the world of **Next.js**.
+
+📚 Always eager to learn new technologies and grow in the ever-evolving world of web development.
+
+---
+
+## ⚡ Right Now
+
+- 🔭 **Working on:** A full-stack parcel delivery website
+- 🌱 **Exploring:** Next.js, server-side rendering & app router
+- 💬 **Ask me about:** React, Node.js, REST APIs, MongoDB
+- ⚡ **Fun fact:** I debug with console.log and I'm not ashamed
+  
 
 ---
 
