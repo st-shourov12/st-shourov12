@@ -28,7 +28,7 @@
 
 💡 I enjoy turning ideas into reality through clean code and creative problem-solving.
 
-📦 Currently building a **Next.js e-commerce website** and exploring the world of **Next.js**.
+📦 Currently building a **Next.js e-commerce website** and exploring the world of **Typescript**.
 
 📚 Always eager to learn new technologies and grow in the ever-evolving world of web development.
 
