@@ -28,7 +28,7 @@
 
 💡 I enjoy turning ideas into reality through clean code and creative problem-solving.
 
-📦 Currently building a **parcel delivery platform** and exploring the world of **Next.js**.
+📦 Currently building a **Next.js e-commerce website** and exploring the world of **Next.js**.
 
 📚 Always eager to learn new technologies and grow in the ever-evolving world of web development.
 
@@ -36,8 +36,8 @@
 
 ## ⚡ Right Now
 
-- 🔭 **Working on:** A full-stack parcel delivery website
-- 🌱 **Exploring:** Next.js, server-side rendering & app router
+- 🔭 **Working on:** A next.js e-commerce website
+- 🌱 **Exploring:** Typescript
 - 💬 **Ask me about:** React, Node.js, REST APIs, MongoDB
 - ⚡ **Fun fact:** I debug with console.log and I'm not ashamed
   
