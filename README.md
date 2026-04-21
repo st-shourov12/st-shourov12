@@ -36,7 +36,7 @@
 
 ## ⚡ Right Now
 
-- 🔭 **Working on:** A next.js e-commerce website
+- 🔭 **Working on:** A next.js e-commerce website named Hero-Kidz
 - 🌱 **Exploring:** Typescript
 - 💬 **Ask me about:** React, Node.js, REST APIs, MongoDB
 - ⚡ **Fun fact:** I debug with console.log and I'm not ashamed
