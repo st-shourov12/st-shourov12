@@ -86,29 +86,35 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 
-
-
+### 📦 Currently Learning
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-shourov12&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-shourov12&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-shourov12&theme=tokyonight&hide_border=true&background=0d0f14&ring=7c6de8&fire=5dcaa5&currStreakLabel=5dcaa5" alt="GitHub Streak" />
 </div>
 
-### 🐍 Contribution Snake
 
-<div align="center">
+ 
+
+
+### 🐍 Contribution Snake
+ 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=st-shourov12&bg_color=0d0f14&color=9896ad&line=7c6de8&point=5dcaa5&hide_border=true)](https://github.com/st-shourov12)
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/st-shourov12/st-shourov12/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/st-shourov12/st-shourov12/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=st-shourov12&theme=react-dark&bg_color=20232a&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true" alt="Contribution Graph" />
-</div>
+</div> -->
 
 ---
 
