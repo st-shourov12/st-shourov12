@@ -3,9 +3,11 @@
 ![Developer Banner](https://i.ibb.co.com/zT0K4W65/Github-Cover-Edit.png)
 
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm MD. MIRAZUL ISLAM SHOUROV</h1>
-<h2 align="center">MERN Stack Developer</h2>
-<p align="center">Building modern web apps — one component at a time</p>
+## Hello, World! 👋
+# I'm **MD. Mirazul Islam Shourov**
+## ` MERN Stack Developer`
+ 
+*Turning ideas into fast, responsive, and beautiful web apps — one clean commit at a time.*
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -141,7 +143,7 @@
   </a>
 </p>
 
----
+
 
 
 
