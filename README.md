@@ -94,7 +94,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## `$ cat ./stats`
 
 <div align="center">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-shourov12&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> -->
