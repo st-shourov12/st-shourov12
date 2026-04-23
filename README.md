@@ -122,7 +122,7 @@
 ---
 
 
-## 📫 Connect With Me
+## `$ ping --connect`
 
 <p>
   <a href="mailto:shourovsc38@gmail.com">
