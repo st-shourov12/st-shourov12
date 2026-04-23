@@ -36,17 +36,18 @@
  
 ---
 
-## ⚡ Right Now
-
-- 🔭 **Working on:** A next.js e-commerce website named Hero-Kidz
-- 🌱 **Exploring:** Typescript
-- 💬 **Ask me about:** React, Node.js, REST APIs, MongoDB
-- ⚡ **Fun fact:** I debug with console.log and I'm not ashamed
-  
-
+## `$ git status --now`
+ 
+```
+▸ Working on  →  Hero-Kidz, a Next.js e-commerce platform
+▸ Exploring   →  TypeScript & advanced patterns
+▸ Ask me      →  React, Node.js, REST APIs, MongoDB
+▸ Fun fact    →  I have a deep, personal relationship with console.log()
+```
+ 
 ---
 
-## 🛠️ Skills & Technologies
+## `$ ls ./skills`
 
 ### ⚛ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
