@@ -19,19 +19,21 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+
 </div>
 
-## 🧑‍💻 About Me
 
-🚀 Passionate **MERN Stack Developer** who loves building modern, responsive, and user-friendly web applications.
-
-💡 I enjoy turning ideas into reality through clean code and creative problem-solving.
-
-📦 Currently building a **Next.js e-commerce website** and exploring the world of **Typescript**.
-
-📚 Always eager to learn new technologies and grow in the ever-evolving world of web development.
-
+---
+ 
+## `$ who_am_i`
+ 
+```bash
+> role          →  MERN Stack Developer
+> location      →  Bangladesh 🇧🇩
+> focus         →  Full-stack web development
+> debug_method  →  console.log (no shame whatsoever)
+```
+ 
 ---
 
 ## ⚡ Right Now
