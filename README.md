@@ -105,7 +105,8 @@
  
 
 
-### 🐍 Contribution Snake
+
+## `$ tail -f ./contribution-snake`
  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=st-shourov12&bg_color=0d0f14&color=9896ad&line=7c6de8&point=5dcaa5&hide_border=true)](https://github.com/st-shourov12)
 <!-- <div align="center">
