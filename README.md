@@ -74,10 +74,13 @@
 </p>
 
 ### 🔐 Authentication
-<p>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=pink)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<!-- <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
   <img src="https://i.ibb.co.com/wNhMfJfQ/next-Auth.png" alt="NextAuth" width="50" height="50"/>
-</p>
+</p> -->
 
 
 ### ⚙ Tools
@@ -87,51 +90,16 @@
   <img src="https://i.ibb.co.com/MD86wJRv/framer.jpg" alt="Framer" width="50" height="50"/>
 </p>
 
----
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-
-<!-- ## 📊 GitHub Stats -->
-
-
-
-<!--| Top Languages | GitHub Stats | 
-|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=st-shourov12&theme=transparent&hide_border=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=st-shourov12&theme=transparent&hide_border=true) | -->
-
-
-<!-- <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-  
-### ⭐️ Feel free to check out my repositories and don't forget to star them if you find something interesting!
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
-
-</div> -->
-
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=st-shourov12&show_icons=true&locale=en&layout=compact" alt="st-shourov12" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=st-shourov12&show_icons=true&locale=en" alt="st-shourov12" /></p> -->
-
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-shourov12&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-shourov12&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ### 🐍 Contribution Snake
