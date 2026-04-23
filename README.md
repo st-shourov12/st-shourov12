@@ -145,16 +145,19 @@
 
 
 
+ 
 
-## 👀 Profile Views
+## `$ view --profile`
 | Profile Views |
 |---------------|
 | <img src="https://komarev.com/ghpvc/?username=st-shourov12&style=for-the-badge&color=blue" /> |
 
-<p align="center">
-  ⭐ If you like my work, consider starring my repositories!
-</p>
 
+```
+⭐ Star a repo if something sparks joy. It means more than you think.
+```
+ 
+---
 
 
 
