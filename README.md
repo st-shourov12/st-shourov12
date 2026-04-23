@@ -84,15 +84,19 @@
 
 
 ### ⚙ Tools
-<p>
+<!-- <p>
   <img src="https://i.ibb.co.com/hRr1fhFW/vscode.png" alt="VSCode" width="50" height="50"/>
   <img src="https://i.ibb.co.com/gMYpyHTR/Figma-logo.jpg" alt="Figma" width="50" height="50"/>
   <img src="https://i.ibb.co.com/MD86wJRv/framer.jpg" alt="Framer" width="50" height="50"/>
-</p>
+</p> -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
 
 ---
 
