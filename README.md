@@ -41,7 +41,7 @@
 ## `$ git status --now`
  
 ```
-▸ Working on  →  Hero-Kidz, a Next.js e-commerce platform
+▸ Working on  →  HandBook, a Next.js e-commerce platform
 ▸ Exploring   →  TypeScript & advanced patterns
 ▸ Ask me      →  React, Node.js, REST APIs, MongoDB
 ▸ Fun fact    →  I have a deep, personal relationship with console.log()
