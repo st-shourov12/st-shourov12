@@ -44,7 +44,7 @@
 ## `$ git status --now`
  
 ```
-▸ Working on  →  HandBook, a Next.js e-commerce platform
+▸ Working on  →  CreatingNode, a node.js server
 ▸ Exploring   →  TypeScript , Node.js & Express.js 
 ▸ Ask me      →  React, Node.js, REST APIs, MongoDB
 ▸ Fun fact    →  I have a deep, personal relationship with console.log()
@@ -156,7 +156,7 @@
 ## `$ view --profile`
 | Profile Views |
 |---------------|
-| <img src="https://komarev.com/ghpvc/?username=st-shourov12&style=for-the-badge&color=blue" /> |
+| <img src="https://komarev.com/ghpvc/?username=st-shourov12&style=for-the-badge&color=7c6de8" /> |
 
 
 ```
@@ -164,6 +164,12 @@
 ```
  
 ---
+
+
+
+
+
+
 
 
 
