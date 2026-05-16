@@ -100,6 +100,21 @@
 
 ---
 
+
+
+## `$ fav ./lang`
+
+<div align = "center">
+ <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=st-shourov12&theme=tokyonight&hide_border=true&background=0d0f14&ring=7c6de8&fire=5dcaa5&include_all_commits=false&count_private=true&layout=compact" />
+</div>
+![Top Languages]()
+
+---
+
+
+
+
+
 ## `$ cat ./stats`
 
 <div align="center">
