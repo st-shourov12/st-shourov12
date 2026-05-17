@@ -44,7 +44,7 @@
 ## `$ git status --now`
  
 ```
-▸ Working on  →  CreatingNode, a node.js server
+▸ Working on  →  Express-Server, an express.js server
 ▸ Exploring   →  TypeScript , Node.js & Express.js 
 ▸ Ask me      →  React, Node.js, REST APIs, MongoDB
 ▸ Fun fact    →  I have a deep, personal relationship with console.log()
