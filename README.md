@@ -97,6 +97,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Pixso](https://img.shields.io/badge/Pixso-6C63FF?style=for-the-badge&logo=pixso&logoColor=white)
 
 
 ### 📦 Currently Learning
